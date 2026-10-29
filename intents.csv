@@ -1,0 +1,41 @@
+message,intent
+hi,greeting
+hello,greeting
+hey,greeting
+hello there,greeting
+good morning,greeting
+good evening,greeting
+hey there,greeting
+hi there,greeting
+greetings,greeting
+good afternoon,greeting
+bye,goodbye
+goodbye,goodbye
+see you later,goodbye
+see you soon,goodbye
+talk to you later,goodbye
+take care,goodbye
+have a nice day,goodbye
+catch you later,goodbye
+good night,goodbye
+bye bye,goodbye
+thanks,thanks
+thank you,thanks
+thanks a lot,thanks
+thank you so much,thanks
+many thanks,thanks
+much appreciated,thanks
+thanks for your help,thanks
+thank you very much,thanks
+i appreciate it,thanks
+thanks again,thanks
+i need help,help
+can you help me,help
+what can you do,help
+help me please,help
+i have a question,help
+how can you help,help
+i need some assistance,help
+can you assist me,help
+i am stuck,help
+please help,help
